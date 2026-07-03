@@ -10,7 +10,7 @@ valores = []
 # print(f"Olá {nome}, seja bem-vindo(a) ao nosso aplicativo de tarefas!")
 
 
-print("Digite um número para ver a mensagem correspondente (digite 0 para sair): \n\n")
+print("Digite um número para ver a mensagem correspondente (digite 0 para sair):")
 print("    1 - Adicionar números à lista .")
 print("    2 - Exibir números da lista.")
 print("    3 - Remover números da lista.")
