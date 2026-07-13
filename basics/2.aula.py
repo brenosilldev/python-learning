@@ -14,8 +14,7 @@ todos = []
 for i , x in enumerate(range(1,21,1)):
 
     if x % 2 == 0:
-        todos.append(x)
-    print(f"i: {i} - x: {x}")
+        print(f"i: {i} - x: {x}")
 
 
 print(f"Todos os números pares de 1 a 20: {todos}")
