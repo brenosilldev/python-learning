@@ -14,6 +14,7 @@ todos = []
 for i , x in enumerate(range(1,21,1)):
     if x % 2 == 0:
         print(f"i: {i} - x: {str(x).capitalize()}")
+        todos.append(x)
 
 for i in range(1,21):
     print(f"{i} - x: {str(i).capitalize()}")
